@@ -1,5 +1,8 @@
 --!strict
 
+-- Created by ToastEngine
+-- https://www.roblox.com/users/7177436/profile
+
 local ExecutionTime = {}
 
 export type Result = {
